@@ -1,0 +1,6 @@
+127.0.0.1 - - [08/Oct/2021:17:59:47 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [08/Oct/2021:17:59:52 +0900] "GET /WebProject/ch06/04autoFlushTrue.jsp HTTP/1.1" 200 11149
+0:0:0:0:0:0:0:1 - - [08/Oct/2021:17:59:53 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [08/Oct/2021:18:00:12 +0900] "GET /WebProject/ch06/04autoFlushTrue.jsp HTTP/1.1" 500 2483
+0:0:0:0:0:0:0:1 - - [08/Oct/2021:18:02:02 +0900] "GET /WebProject/ch06/04autoFlushTrue.jsp HTTP/1.1" 200 11149
+0:0:0:0:0:0:0:1 - - [08/Oct/2021:18:02:02 +0900] "GET /favicon.ico HTTP/1.1" 404 818

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="27">
+    <list key="modules" value0="FirstJspProject::org.eclipse.jst.jee.server:FirstJspProject::jst.web::4.0" value1="WebProject::org.eclipse.jst.jee.server:WebProject::jst.web::4.0" value2="MyWebSite::org.eclipse.jst.jee.server:MyWebSite::jst.web::4.0" value3="20202296week9::org.eclipse.jst.jee.server:20202296week9::jst.web::4.0" value4="Project::org.eclipse.jst.jee.server:Project::jst.web::4.0" value5="AddressProject_Sample::org.eclipse.jst.jee.server:AddressProject_Sample::jst.web::4.0" value6="SmartProject_Sample::org.eclipse.jst.jee.server:SmartProject_Sample::jst.web::4.0" value7="AddressProject_Sample2::org.eclipse.jst.jee.server:AddressProject_Sample2::jst.web::4.0" value8="MovieProject::org.eclipse.jst.jee.server:MovieProject::jst.web::4.0"/>
+  </server>
+</servers>

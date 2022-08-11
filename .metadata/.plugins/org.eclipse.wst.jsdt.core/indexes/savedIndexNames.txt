@@ -1,0 +1,16 @@
+INDEX VERSION 1.4+C:\jspWorkspace2021\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+449384428.index
+524942144.index
+526009883.index
+3149084191.index
+4216569229.index
+4058006852.index
+232416529.index
+784781061.index
+2573102935.index
+1777103968.index
+1037621053.index
+1728339525.index
+1804983233.index
+1330744790.index
+2519099574.index

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;SmartProject_Sample&apos; to &apos;SmartProject&apos;" description="Move &apos;SmartProject_Sample&apos; to &apos;SmartProject&apos;" destination="/SmartProject" element1="/AddressProject/SmartProject_Sample" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1637300953598" updateReferences="true"/>
+</session>

@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>영화 예매 사이트</title>
+<%
+	String contentPage = request.getParameter("CONTENTPAGE");
+	if(contentPage == null) { contentPage = "content.jsp"; }
+%>
+</head>
+<body>
+	<header>
+	</header>
+	<footer>
+	</footer>
+</body>
+</html>

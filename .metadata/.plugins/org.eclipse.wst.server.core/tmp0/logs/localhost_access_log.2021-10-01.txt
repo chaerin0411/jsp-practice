@@ -1,0 +1,11 @@
+127.0.0.1 - - [01/Oct/2021:15:26:42 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [01/Oct/2021:15:26:48 +0900] "GET /WebProject/ch06/01request_form.jsp HTTP/1.1" 500 2220
+0:0:0:0:0:0:0:1 - - [01/Oct/2021:15:26:48 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [01/Oct/2021:15:34:53 +0900] "GET /WebProject/ch06/01request_form.jsp HTTP/1.1" 500 2220
+0:0:0:0:0:0:0:1 - - [01/Oct/2021:15:34:53 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [01/Oct/2021:15:35:32 +0900] "GET /WebProject/ch06/01request_form.jsp HTTP/1.1" 500 2245
+0:0:0:0:0:0:0:1 - - [01/Oct/2021:15:35:33 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [01/Oct/2021:22:51:21 +0900] "GET /WebProject/ch06/03page_control.jsp HTTP/1.1" 200 556
+0:0:0:0:0:0:0:1 - - [01/Oct/2021:22:51:21 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [01/Oct/2021:22:57:24 +0900] "GET /WebProject/ch06/03page_control.jsp HTTP/1.1" 200 556
+0:0:0:0:0:0:0:1 - - [01/Oct/2021:22:57:31 +0900] "POST /WebProject/ch06/03forward_action2.jsp HTTP/1.1" 500 2834

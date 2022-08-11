@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;WebProject/src/main/webapp/WEB-INF/tag&apos; to &apos;tags&apos;" description="Rename resource &apos;tag&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/tag" name="tags" stamp="1638620384867" updateReferences="true"/>
+</session>

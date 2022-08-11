@@ -1,0 +1,223 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    user-select: none;
+    font-family: '맑은 고딕', '돋움', sans-serif;
+    font-size: 12px;
+    color: #444444;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+}
+
+ul {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    padding-inline-start: 0;
+    text-align: left;
+    list-style: none;
+}
+li {
+    display: inline;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: #444444;
+}
+
+header {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#top {
+
+}
+
+#logo {
+
+}
+#logo_img {  }
+
+#main_menu {
+
+}
+#main_menu ul { 
+
+}
+#main_menu li {	
+
+}
+#main_menu li:hover a {
+
+}
+
+#top_menu {
+
+}
+#top_menu ul {
+
+}
+#top_menu li {
+
+}
+#top_menu li:hover a {
+
+}
+#member { }
+#member_img { }
+
+#category1 {  }
+#category1_carousel {
+
+}
+#category1_carousel .window {
+
+}
+#category1_carousel .container {
+
+}
+#category1_carousel .container li {
+
+}
+#category1_carousel .cimg {
+
+}
+#category1_carousel ul {  }
+#category1_carousel li {  }
+.carr {
+
+}
+.carr:active {  }
+.carr img {  }
+#clarr { }
+#crarr {  }
+
+#category1_carousel div {
+
+}
+#category1_carousel .selected {  }
+#category1_carousel div:hover {
+
+}
+
+#category1_menu {
+
+}
+#category1_menu ul { }
+#category1_menu li {
+
+}
+#category1_menu li b { }
+#category1_menu li:hover a {  }
+#category1_menu li:hover {
+
+}
+#category1_menu .selected {
+
+}
+
+#category2 {  }
+#category2_title {
+
+}
+#category2_title h3 {
+
+}
+
+#category2_travel {
+
+}
+#category2_travel .items {
+
+}
+#category2_travel .items:hover {
+
+}
+#category2_travel .items img { }
+
+#category2_travel .itemp {
+
+}
+#category2_travel .items:hover .itemp {
+
+}
+#category2_travel .itemp p {
+
+}
+#category2_travel .items:hover .itemp p {}
+
+#category2_travel .itemp .title {
+
+}
+#category2_travel .itemp .comment {
+
+}
+#category2_travel .itemp .price {
+
+}
+#category2_travel .items:hover .itemp .price {  }
+
+#category2_travel_img {
+
+}
+#category2_travel_imgcmt {
+   
+}
+#category2_travel_imgcmt p {
+ 
+}
+#category2_travel_imgcmt p b {
+  
+}
+#category2_travel_imgcmt .firstp {  }
+#category2_travel_img img {  }
+
+footer {  }
+#footer_menu_box {
+
+}
+
+#footer_menu ul {
+    
+}
+#footer_menu li {
+   
+}
+#footer_menu .footer_title {
+   
+}
+
+#menu_box {
+    
+}
+#left_menu_box {
+   
+}
+
+#left_menu_box_top {
+   
+}
+#left_menu_box_top li {
+   
+}
+
+#left_menu_box_bottom {
+   
+}
+#right_menu_box {
+   
+}
+#right_menu_box li {
+    
+}
+#right_menu_box b { }

@@ -1,0 +1,156 @@
+<!-- content.jsp -->
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<!-- section main 시작 -->
+<section id="main">
+	<!-- section category1 시작 -->
+	<section id="category1">
+
+	</section><!-- section category1 끝 -->
+	<br>
+
+	<!-- section category2 시작 -->
+	<section id="category2">
+		<div id="category2_title">
+			<h3><a href="#">무비차트</a></h3>
+			<h3><a href="#">상영예정작</a></h3>
+		</div>
+		<!-- category2_movies 시작 -->    
+		<div id="category2_movies">       
+			<div class="items">
+				<a href="#"><img src="img/movie1.jpg" alt="스파이더맨-노 웨이 홈"></a>
+				<div class="itemp">
+					<p class="title">스파이더맨-노 웨이 홈</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">95% 예매율 27.6%</p>
+				</div>
+			</div>                    
+			<div class="items">
+				<a href="#"><img src="img/movie2.jpg" alt="특송"></a>
+				<div class="itemp">
+					<p class="title">특송</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">93% 예매율 11.9%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie3.jpg" alt="싱2게더"></a>
+				<div class="itemp">
+					<p class="title">싱2게더</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">98% 예매율 9.6%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie4.jpg" alt="해적-도깨비 깃발"></a>
+				<div class="itemp">
+					<p class="title">해적-도깨비 깃발</p>
+					<p class="comment"><img src="img/eggGoldeneggPreegg.png" alt="eggGoldeneggPreegg">98% 예매율 9.6%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie5.jpg" alt="웨스트 사이드 스토리"></a>
+				<div class="itemp">
+					<p class="title">웨스트 사이드 스토리</p>
+					<p class="comment"><img src="img/eggGoldenegg.png" alt="eggGoldenegg">69% 예매율 7.4%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie6.jpg" alt="경관의 피"></a>
+				<div class="itemp">
+					<p class="title">경관의 피</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">90% 예매율 7.1%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie7.jpg" alt="하우스 오브 구찌"></a>
+				<div class="itemp">
+					<p class="title">하우스 오브 구찌</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">92% 예매율 6.5%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie8.jpg" alt="비욘드라이브 더 무비 : 엔시티 레조넌스"></a>
+				<div class="itemp">
+					<p class="title">비욘드라이브 더 무비 : 엔시티 레조넌스</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">99% 예매율 5.0%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie9.jpg" alt="장민호 드라마 최종화"></a>
+				<div class="itemp">
+					<p class="title">장민호 드라마 최종화</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">95% 예매율 2.3%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie10.jpg" alt="킹스맨-퍼스트 에이전트"></a>
+				<div class="itemp">
+					<p class="title">킹스맨-퍼스트 에이전트</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">87% 예매율 2.0%</p>
+				</div>
+			</div>   
+			<div class="items">
+				<a href="#"><img src="img/movie11.jpg" alt="어나더 라운드"></a>
+				<div class="itemp">
+					<p class="title">어나더 라운드</p>
+					<p class="comment"><img src="img/eggGoldeneggPreegg.png" alt="eggGoldeneggPreegg">99% 예매율 1.7%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie12.jpg" alt="러브레터"></a>
+				<div class="itemp">
+					<p class="title">러브레터</p>
+					<p class="comment"><img src="img/eggGoldeneggPreegg.png" alt="eggGoldeneggPreegg">99% 예매율 1.5%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie13.jpg" alt="클리포드 더 빅 레드 독"></a>
+				<div class="itemp">
+					<p class="title">클리포드 더 빅 레드 독</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">91% 예매율 1.1%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie14.jpg" alt="드라이브 마이 카"></a>
+				<div class="itemp">
+					<p class="title">드라이브 마이 카</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">94% 예매율 1.0%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie15.jpg" alt="킹메이커"></a>
+				<div class="itemp">
+					<p class="title">킹메이커</p>
+					<p class="comment"><img src="img/eggGoldeneggPreegg.png" alt="eggGoldeneggPreegg">99% 예매율 0.8%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie16.jpg" alt="청춘적니"></a>
+				<div class="itemp">
+					<p class="title">청춘적니</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">89% 예매율 0.7%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie17.jpg" alt="프랑스"></a>
+				<div class="itemp">
+					<p class="title">프랑스</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">90% 예매율 0.7%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie18.jpg" alt="걸즈 앤 판처 최종장 제3화"></a>
+				<div class="itemp">
+					<p class="title">걸즈 앤 판처 최종장 제3화</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">94% 예매율 0.6%</p>
+				</div>
+			</div>
+			<div class="items">
+				<a href="#"><img src="img/movie19.jpg" alt="극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아"></a>
+				<div class="itemp">
+					<p class="title">극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아</p>
+					<p class="comment"><img src="img/eggGoldenegggreat.png" alt="eggGoldenegggreat">93% 예매율 0.6%</p>
+				</div>
+			</div>     
+		</div><!-- category2_movies 끝 -->
+	</section><!-- section category2 끝 -->
+</section><!-- section main 끝 -->

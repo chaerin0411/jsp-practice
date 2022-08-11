@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jst.jsp.ui.internal.wizard.NewTagWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
+			<item value="org.eclipse.jst.ejb.ui"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.debug.ui.java"/>
+			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.junit"/>
+			<item value="org.eclipse.jst.j2ee.internal"/>
+			<item value="org.eclipse.emf.codegen.ui.JETNewWizards"/>
+			<item value="org.eclipse.wst.jsdt.ui.java"/>
+			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\chaer\OneDrive - 동양미래대학\웹프로젝트실습\웹프로젝트실습 항공권 예약 프로젝트\MyWebSite.zip"/>
+			<item value="C:\Users\chaer\OneDrive - 동양미래대학\웹프로젝트실습\웹프로젝트실습 항공권 예약 프로젝트\MyWebSite1.zip"/>
+			<item value="C:\Users\chaer\eclipse-workspace\MovieReservation\MovieReservation.zip"/>
+			<item value="C:\Users\chaer\OneDrive - 동양미래대학\웹프로젝트실습\20202296week9.zip"/>
+			<item value="C:\Users\chaer\OneDrive - 동양미래대학\웹프로젝트실습\웹프로젝트실습 항공권 예약 프로젝트\MyWebProject.zip"/>
+			<item value="C:\Users\chaer\OneDrive - 동양미래대학\웹프로젝트실습\MyWebSite.zip"/>
+			<item value="C:\Users\chaer\OneDrive\문서\웹프로젝트실습\WebProject.zip"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="true"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\chaer\OneDrive - 동양미래대학\웹프로젝트실습\강의자료\week12\샘플프로젝트-SmartProject.zip"/>
+			<item value="C:\Users\chaer\OneDrive - 동양미래대학\웹프로젝트실습\강의자료\week11\주소록프로그램.zip"/>
+			<item value="C:\Users\chaer\OneDrive - 동양미래대학\웹프로젝트실습\웹프로젝트실습 항공권 예약 프로젝트\MyWebSite1.zip"/>
+			<item value="C:\Users\chaer\OneDrive\문서\카카오톡 받은 파일\MyWebSite1.zip"/>
+			<item value="C:\Users\chaer\OneDrive - 동양미래대학\웹프로젝트실습\웹프로젝트실습 항공권 예약 프로젝트\myProject (1).zip"/>
+			<item value="C:\Users\chaer\OneDrive - 동양미래대학\웹프로젝트실습\웹프로젝트실습 항공권 예약 프로젝트\myProject.zip"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="600"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="844"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textEntries">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+</section>
